@@ -1,2 +1,2 @@
-# Interactive-SQL-Visualizer
-A beginner-friendly tool to explore and understand SQL.
+# SQL-Visualizer
+A website to help beginners understand SQL

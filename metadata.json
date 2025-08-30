@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Interactive SQL Query Visualizer",
+  "description": "A web application to visualize the step-by-step execution of SQL queries on sample datasets.",
+  "requestFramePermissions": []
+}
