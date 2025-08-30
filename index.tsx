@@ -5,10 +5,6 @@
 import React, {useState, useMemo, useEffect, useRef} from 'react';
 import ReactDOM from 'react-dom/client';
 import { GoogleGenAI } from "@google/genai";
-import { inject } from '@vercel/analytics';  
-
-// Initialize Vercel Analytics
-inject();   
 
 // --- DATA DEFINITIONS ---
 
