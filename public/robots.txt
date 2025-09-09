@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://interactive-sql-visualizer.vercel.app/sitemap.xml
-
+Sitemap: https://interactive-sql-visualizer.vercel.app/api/sitemap
