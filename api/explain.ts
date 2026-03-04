@@ -22,7 +22,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         }
 
         const genAI = new GoogleGenerativeAI(API_KEY);
-        const model = genAI.getGenerativeModel({ model: "Gemini 2.5 Flash" });
+        const model = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
 
         const prompt = `
             You are an expert SQL analyst. Explain the following SQL query step-by-step for a beginner.
